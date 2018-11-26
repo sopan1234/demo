@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="17009" started-at="2018-11-22T06:28:46Z" finished-at="2018-11-22T06:29:03Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="17009" started-at="2018-11-22T06:28:46Z" finished-at="2018-11-22T06:29:03Z">
+      <class name="com.cookies.cookiesDemo">
+        <test-method status="PASS" signature="demo()[pri:0, instance:com.cookies.cookiesDemo@1d057a39]" name="demo" duration-ms="16984" started-at="2018-11-22T11:58:46Z" finished-at="2018-11-22T11:59:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo -->
+      </class> <!-- com.cookies.cookiesDemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
